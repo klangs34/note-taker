@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "AS A user, I want to be able to write and save notes\r I WANT to be able to delete notes I've written before\r SO THAT I can organize my thoughts and keep track of tasks I need to complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klangs34/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klangs34/note-taker/issues"
+  },
+  "homepage": "https://github.com/klangs34/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
